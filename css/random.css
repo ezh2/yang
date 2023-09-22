@@ -1,0 +1,44 @@
+#generateButton {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #cc9797;
+    color: #fff;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#generateButton:hover {
+    background-color: #C17070;
+}
+
+#foodList {
+    list-style: none;
+    padding: 0;
+    margin: 20px 0;
+}
+
+#foodList li {
+    margin: 20px;
+    font-size: 16px;
+    color: #333;
+}
+
+.dish_link {
+    margin: 20px auto;
+    padding: 10px 10px;
+    background-color: #768775;
+    color: #fff;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.dish_link:hover {
+    background-color: #618760;
+    color: #fff;
+}
