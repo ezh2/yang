@@ -42,7 +42,17 @@ document.addEventListener("DOMContentLoaded", function () {
         40: { name: "Sweet potato pancake", category: "Ovo-lacto vegetarian" },
         41: { name: "Sweet Potato Fries", category: "Dessert" },
         42: { name: "Baked Sweet Potato", category: "Dessert" },
-        43: { name: "Pumpkin Pudding", category: "Dessert" }
+        43: { name: "Pumpkin Pudding", category: "Dessert" },
+        44: { name: "Corn with Bean Sprouts Leek Soup", category: "Soup" },
+        45: { name: "Lotus Root Soup", category: "Soup" },
+        46: { name: "Spanish Pumpkin Omelette", category: "Ovo-lacto Vegetarian" },
+        47: { name: "Stewed Salmon with Radish Puree", category: "Main" },
+        48: { name: "Roasted Broccoli Skewers with Herb Bread Flour", category: "Appetizer" },
+        49: { name: "Taro and Steamed Clams with White Wine", category: "Appetizer" },
+        50: { name: "Mapo Yam", category: "Main" },
+        51: { name: "Broccoli Fried Rice", category: "Main" },
+        52: { name: "Spanish Sweet Pepper with Garlic and Clams", category: "Main" },
+        53: { name: "Sautéed Sweet Potatoes with Beef and Cucumber", category: "Appetizer" }
     };
 
     const categories = [

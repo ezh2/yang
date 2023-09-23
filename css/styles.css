@@ -12700,8 +12700,5 @@ section {
 
 footer {
   background-color: #CFDFBA;
-}
-
-p footer {
-  color: white !important;
+  margin-top: 50px;
 }
