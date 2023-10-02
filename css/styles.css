@@ -12707,3 +12707,7 @@ footer {
 footer p {
   color: #F2E5D4;
 }
+
+img {
+  pointer-events: none;
+}

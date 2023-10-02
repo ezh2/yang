@@ -131,5 +131,3 @@ document.addEventListener("DOMContentLoaded", function () {
         return Object.values(foodData).filter(food => food.category === category);
     }
 });
-
-
