@@ -4341,6 +4341,7 @@ fieldset:disabled .btn {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
+  font-size: 20px;
 }
 
 .navbar-nav .show>.nav-link,
@@ -12699,6 +12700,10 @@ section {
 }
 
 footer {
-  background-color: #CFDFBA;
+  background-color: #6C7645;
   margin-top: 50px;
+}
+
+footer p {
+  color: #F2E5D4;
 }
