@@ -1,1 +1,44 @@
-#generateButton{display:block;}#generateButton,[class~=dish_link]{margin-left:auto;}#foodList li{margin-left:.208333333in;}#foodList li,#generateButton,[class~=dish_link]{margin-bottom:15pt;}#generateButton,[class~=dish_link]{margin-right:auto;}[class~=dish_link],#generateButton,#foodList li{margin-top:15pt;}#foodList li{margin-right:.208333333in;}[class~=dish_link]{padding-left:7.5pt;}[class~=dish_link],#generateButton{padding-bottom:7.5pt;}[class~=dish_link]{padding-right:7.5pt;}[class~=dish_link],#generateButton{padding-top:7.5pt;}#foodList li,#generateButton,[class~=dish_link]{font-size:12pt;}#generateButton{padding-left:.208333333in;}[class~=dish_link]{background-color:#768775;}[class~=dish_link]:hover,#generateButton,[class~=dish_link]{color:#fff;}[class~=dish_link]:hover{background-color:#618760;}#generateButton{padding-right:.208333333in;}#generateButton,[class~=dish_link]{border-left-width:medium;}#generateButton,[class~=dish_link]{border-bottom-width:medium;}#generateButton{background-color:#cc9797;}[class~=dish_link],#generateButton{border-right-width:medium;}#foodList li{color:#333;}[class~=dish_link],#generateButton{border-top-width:medium;}[class~=dish_link],#generateButton{border-left-style:none;}#generateButton,[class~=dish_link]{border-bottom-style:none;}[class~=dish_link],#generateButton{border-right-style:none;}[class~=dish_link],#generateButton{border-top-style:none;}[class~=dish_link],#generateButton{border-left-color:currentColor;}#generateButton,[class~=dish_link]{border-bottom-color:currentColor;}#generateButton,[class~=dish_link]{border-right-color:currentColor;}#generateButton,[class~=dish_link]{border-top-color:currentColor;}[class~=dish_link],#generateButton{border-image:none;}#generateButton,[class~=dish_link]{border-radius:5px;}#generateButton,[class~=dish_link]{cursor:pointer;}#foodList{list-style:none;}#foodList{padding-left:0;}#foodList{padding-bottom:0;}#foodList{padding-right:0;}#foodList{padding-top:0;}#foodList{margin-left:0;}#foodList{margin-bottom:1.25pc;}#foodList{margin-right:0;}#foodList{margin-top:1.25pc;}[class~=dish_link]{text-decoration:none;}#generateButton:hover{background-color:#c17070;}
+#generateButton {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #cc9797;
+    color: #fff;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#generateButton:hover {
+    background-color: #C17070;
+}
+
+#foodList {
+    list-style: none;
+    padding: 0;
+    margin: 20px 0;
+}
+
+#foodList li {
+    margin: 20px;
+    font-size: 16px;
+    color: #333;
+}
+
+.dish_link {
+    margin: 20px auto;
+    padding: 10px 10px;
+    background-color: #768775;
+    color: #fff;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.dish_link:hover {
+    background-color: #618760;
+    color: #fff;
+}
